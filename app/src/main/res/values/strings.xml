@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">To-Do Manager</string>
+    <string name="change_icon">Change icon</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string name="description">Task description</string>
+    <string name="title">Task title</string>
+    <string name="new_task_button">New task</string>
+    <string name="deadline2">Deadline:</string>
+    <string name="new_task">New task</string>
+    <string name="decline">Decline</string>
+    <string name="save">Save</string>
+    <string name="task_preview">Task preview</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="icon">Icon</string>
+    <string name="edit_task">Edit task</string>
+    <string name="my_tasks">My tasks</string>
+    <string name="back">Back</string>
+    <string name="choose_icon">Choose icon</string>
+    <string name="next">Next</string>
+    <string name="message_title_removed">Task title has been removed.  Do you want to continue? It will be generated automatically.</string>
+    <string name="title_automatic">Untitled task</string>
+    <string name="warning">Warning</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="question_delete_task">Do you really want to delete this task?</string>
+    <string name="sorting">Sort</string>
+    <string name="choose_sort">Choose sort</string>
+    <string name="notification_settings">Notification settings</string>
+    <string name="OK">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="deadline">Deadline</string>
+    <string name="notification">Notification</string>
+    <string name="choose">Choose</string>
+    <string name="task_type">Task type</string>
+    <string name="change_type">Change type</string>
+    <string name="priority">Priority</string>
+    <string name="data_missing_start">Some data are missing:</string>
+    <string name="data_missing_title">Title</string>
+    <string name="data_missing_day">Deadline day</string>
+    <string name="data_missing_hour">Deadline hour</string>
+    <string name="data_missing_end">Do you want to continue? Lacking values will be generated automatically.</string>
+    <string name="reminders">Reminders</string>
+    <string name="reminders_description">Reminders about upcoming tasks</string>
+    <string name="reminder_title">Reminder about task</string>
+    <string name="notification_disabled">Notification disabled</string>
+    <string name="no_description">No description</string>
+
+    <string-array name="icon_names">
+        <item>book</item>
+        <item>business</item>
+        <item>coffee</item>
+        <item>event</item>
+        <item>film</item>
+        <item>gift</item>
+        <item>home</item>
+        <item>image</item>
+        <item>message</item>
+        <item>music</item>
+        <item>office</item>
+        <item>outdoor</item>
+        <item>pets</item>
+        <item>phone</item>
+        <item>shopping</item>
+        <item>sport</item>
+        <item>trash</item>
+        <item>travel</item>
+        <item>tv</item>
+    </string-array>
+
+    <string-array name="icon_descriptions">
+        <item>Book</item>
+        <item>Business</item>
+        <item>Break</item>
+        <item>Event</item>
+        <item>Film</item>
+        <item>Present</item>
+        <item>Home</item>
+        <item>Image</item>
+        <item>Message</item>
+        <item>Music</item>
+        <item>Office</item>
+        <item>Outdoor</item>
+        <item>Pets</item>
+        <item>Phone</item>
+        <item>Shopping</item>
+        <item>Sport</item>
+        <item>Ordering</item>
+        <item>Travel</item>
+        <item>TV</item>
+    </string-array>
+
+    <string-array name="sort_possibilities">
+        <item>Modification date [inc]</item>
+        <item>Modification date [desc]</item>
+        <item>Deadline [inc]</item>
+        <item>Deadline [desc]</item>
+        <item>Title [inc]</item>
+        <item>Title [desc]</item>
+        <item>Priority [inc]</item>
+        <item>Priority [desc]</item>
+        <item>Task types</item>
+    </string-array>
+
+    <string-array name="notification_possibilities">
+        <item>1h before deadline</item>
+        <item>30 min before deadline</item>
+        <item>15 min before deadline</item>
+        <item>10 min before deadline</item>
+        <item>5 min before deadline</item>
+        <item>On deadline</item>
+    </string-array>
+
+    <string-array name="notification_possibilities_short">
+        <item>1h before</item>
+        <item>30 min before</item>
+        <item>15 min before</item>
+        <item>10 min before</item>
+        <item>5 min before</item>
+        <item>Deadline</item>
+    </string-array>
+</resources>

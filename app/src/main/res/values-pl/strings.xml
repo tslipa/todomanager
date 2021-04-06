@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zadania</string>
+    <string name="change_icon">Zmień ikonkę</string>
+    <string name="time">Czas</string>
+    <string name="date">Data</string>
+    <string name="description">Opis zadania</string>
+    <string name="title">Tytuł zadania</string>
+    <string name="new_task_button">Nowe zadanie</string>
+    <string name="deadline2">Termin zadania:</string>
+    <string name="new_task">Nowe zadanie</string>
+    <string name="decline">Anuluj</string>
+    <string name="save">Zapisz</string>
+    <string name="task_preview">Podgląd zadania</string>
+    <string name="delete">Usuń</string>
+    <string name="edit">Edytuj</string>
+    <string name="icon">Ikonka</string>
+    <string name="edit_task">Edycja zadania</string>
+    <string name="my_tasks">Moje zadania</string>
+    <string name="back">Wstecz</string>
+    <string name="choose_icon">Wybór ikonki</string>
+    <string name="next">Dalej</string>
+    <string name="message_title_removed">Usunięto tytuł zadania.  Czy chcesz kontynuować? Zostanie on wygenerowany automatycznie.</string>
+    <string name="title_automatic">Zadanie bez tytułu</string>
+    <string name="warning">Uwaga</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <string name="question_delete_task">Czy na pewno chcesz usunąć to zadanie?</string>
+    <string name="sorting">Sortowanie</string>
+    <string name="choose_sort">Wybierz sposób sortowania</string>
+    <string name="notification_settings">Ustawienia powiadomień</string>
+    <string name="OK">OK</string>
+    <string name="cancel">Anuluj</string>
+    <string name="deadline">Termin wykonania</string>
+    <string name="notification">Powiadomienie</string>
+    <string name="choose">Wybierz</string>
+    <string name="task_type">Typ zadania</string>
+    <string name="change_type">Zmień typ</string>
+    <string name="priority">Priorytet</string>
+    <string name="data_missing_start">Nie podano następujących danych:</string>
+    <string name="data_missing_title">Tytuł</string>
+    <string name="data_missing_day">Dzień terminu wykonania</string>
+    <string name="data_missing_hour">Godzina terminu wykonania</string>
+    <string name="data_missing_end">Czy chcesz kontynuować? Brakujące wartości zostaną wygenerowane automatycznie.</string>
+    <string name="reminders">Przypomnienia</string>
+    <string name="reminders_description">Przypomnienia o nadchodzących zadaniach</string>
+    <string name="reminder_title">Przypomnienie o zadaniu</string>
+    <string name="notification_disabled">Powiadomienie wyłączone</string>
+    <string name="no_description">Brak opisu</string>
+
+    <string-array name="icon_descriptions">
+        <item>Książka</item>
+        <item>Biznes</item>
+        <item>Przerwa</item>
+        <item>Wydarzenie</item>
+        <item>Film</item>
+        <item>Prezent</item>
+        <item>Dom</item>
+        <item>Obraz</item>
+        <item>Wiadomość</item>
+        <item>Muzyka</item>
+        <item>Biuro</item>
+        <item>Outdoor</item>
+        <item>Zwierzaki</item>
+        <item>Telefon</item>
+        <item>Zakupy</item>
+        <item>Sport</item>
+        <item>Porządki</item>
+        <item>Podróże</item>
+        <item>Telewizja</item>
+    </string-array>
+
+    <string-array name="sort_possibilities">
+        <item>Data modyfikacji [rosnąco]</item>
+        <item>Data modyfikacji [malejąco]</item>
+        <item>Termin wykonania [rosnąco]</item>
+        <item>Termin wykonania [malejąco]</item>
+        <item>Tytuł [rosnąco]</item>
+        <item>Tytuł [malejąco]</item>
+        <item>Priorytet [rosnąco]</item>
+        <item>Priorytet [malejąco]</item>
+        <item>Typy zadań</item>
+    </string-array>
+
+    <string-array name="notification_possibilities">
+        <item>1h przed terminem</item>
+        <item>30 min przed terminem</item>
+        <item>15 min przed terminem</item>
+        <item>10 min przed terminem</item>
+        <item>5 min przed terminem</item>
+        <item>O czasie terminu</item>
+    </string-array>
+
+    <string-array name="notification_possibilities_short">
+        <item>1h przed</item>
+        <item>30 min przed</item>
+        <item>15 min przed</item>
+        <item>10 min przed</item>
+        <item>5 min przed</item>
+        <item>O czasie</item>
+    </string-array>
+</resources>
